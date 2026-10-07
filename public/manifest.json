@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "RollCall - Attendance Manager",
+  "short_name": "RollCall",
+  "description": "Fast, responsive offline attendance management for college classrooms.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

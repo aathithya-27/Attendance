@@ -1,0 +1,6 @@
+{
+  "name": "RollCall",
+  "description": "Fast, responsive offline attendance management for college classrooms. Mark sequential roll numbers, track attendance live, and export to Excel or PNG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

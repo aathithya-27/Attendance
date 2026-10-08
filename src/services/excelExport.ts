@@ -13,7 +13,7 @@ export function exportAttendanceToExcel(
 
   // 1. Prepare structured sheet data
   const sheetData: (string | number)[][] = [
-    ['ROLLCALL ATTENDANCE REPORT'],
+    ['ATTENDANCE REPORT'],
     ['Generated Date:', formattedDate],
     ['Roll Range:', `${session.fromRoll} to ${session.toRoll}`],
     [''],

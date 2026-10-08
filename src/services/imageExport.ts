@@ -49,7 +49,7 @@ export async function exportAttendanceGridImage(
 
   ctx.font = 'bold 15px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif';
   ctx.fillStyle = '#0f172a';
-  ctx.fillText('RollCall Attendance Roster', padding, padding);
+  ctx.fillText('Attendance Roster', padding, padding);
 
   ctx.font = '12px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif';
   ctx.fillStyle = '#64748b';

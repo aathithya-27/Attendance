@@ -1,7 +1,7 @@
 {
   "id": "/",
-  "name": "RollCall - Attendance Manager",
-  "short_name": "RollCall",
+  "name": "Attendance",
+  "short_name": "Attendance",
   "description": "Fast, responsive offline attendance management for college classrooms.",
   "start_url": "/",
   "scope": "/",
